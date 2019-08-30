@@ -1,0 +1,24 @@
+{
+    "author": "Emeryao",
+    "description": "typescript declaration for the bad Dobby",
+    "devDependencies": {
+        "typescript": "^3.6.2"
+    },
+    "keywords": [
+        "dobby",
+        "typed",
+        "types",
+        "typescript"
+    ],
+    "license": "MIT",
+    "main": "dobby.d.ts",
+    "name": "typed-dobby",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Emeryao/typed-dobby"
+    },
+    "scripts": {
+        "build": "tsc"
+    },
+    "version": "1.0.1"
+}

@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "es2015",
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitAny": false,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "outDir": "dist",
+        "sourceMap": false,
+        "strict": false,
+        "target": "es2015"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
